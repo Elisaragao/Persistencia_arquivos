@@ -2,9 +2,6 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// ESSA CLASSE EXECUTA O CADASTRO DE LIVROS
-// PERMITE QUE O USUÁRIO INSIRA AS INFORMAÇÕES
-// E ARMAZENE NO ARRAY livros
 class LivroCadastro {
 
     static ArrayList<Livro> livros = new ArrayList<>();
